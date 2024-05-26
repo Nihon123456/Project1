@@ -1,0 +1,91 @@
+(asctime)s - INFO: Test Case 1 Execution start.
+(asctime)s - INFO: Test Case 1 Execution start.
+(asctime)s - INFO: login page open successful.
+(asctime)s - INFO: user name  successful.
+(asctime)s - INFO: login page password successful.
+(asctime)s - INFO: login page login button click successful.
+(asctime)s - INFO: login successful.
+(asctime)s - INFO: login testcase one valid execution completed.
+(asctime)s - INFO: Test Case 1 Execution start.
+2023-12-30 11:14:46,770 - INFO: Test Case 1 Execution start.
+2023-12-30 11:14:53,798 - INFO: Test Case 1 Execution start.
+2023-12-30 11:15:05,339 - INFO: login page open successful.
+2023-12-30 11:15:05,402 - INFO: user name  successful.
+2023-12-30 11:15:05,420 - INFO: login page password successful.
+2023-12-30 11:15:06,918 - INFO: login page login button click successful.
+2023-12-30 11:15:11,921 - INFO: login successful.
+2023-12-30 11:15:12,959 - INFO: login testcase one valid execution completed.
+2023-12-30 11:15:25,793 - INFO: Test Case 1 Execution start.
+2023-12-30 11:26:31,286 - INFO: Test Case 1 Execution start.
+2023-12-30 11:26:38,789 - INFO: Test Case 1 Execution start.
+2023-12-30 11:26:46,680 - INFO: login page open successful.
+2023-12-30 11:26:46,721 - INFO: user name  successful.
+2023-12-30 11:26:46,740 - INFO: login page password successful.
+2023-12-30 11:26:48,009 - INFO: login page login button click successful.
+2023-12-30 11:26:53,014 - INFO: login successful.
+2023-12-30 11:26:54,168 - INFO: login testcase one valid execution completed.
+2023-12-30 11:26:56,235 - INFO: Test Case 2 Execution start.
+2023-12-30 11:27:03,451 - INFO: Test Case 2 Execution start.
+2023-12-30 11:27:12,060 - INFO: login test case 2 url done.
+2023-12-30 11:27:12,101 - INFO: Test 2 user name done.
+2023-12-30 11:27:12,118 - INFO: Test 2 password done.
+2023-12-30 11:27:13,236 - INFO: Test 2 login button click done.
+2023-12-30 12:13:50,673 - INFO: Test Case 1 Execution start.
+2023-12-30 12:13:58,807 - INFO: Test Case 1 Execution start.
+2023-12-30 12:14:05,006 - INFO: login page open successful.
+2023-12-30 12:14:06,734 - INFO: user name  successful.
+2023-12-30 12:14:06,759 - INFO: login page password successful.
+2023-12-30 12:14:08,272 - INFO: login page login button click successful.
+2023-12-30 12:14:08,277 - INFO: login successful.
+2023-12-30 12:14:10,272 - INFO: login testcase one valid execution completed.
+2023-12-30 12:14:12,342 - INFO: Test Case 2 Execution start.
+2023-12-30 12:14:20,059 - INFO: Test Case 2 Execution start.
+2023-12-30 12:14:24,377 - INFO: login test case 2 url done.
+2023-12-30 12:14:24,948 - INFO: Test 2 user name done.
+2023-12-30 12:14:24,984 - INFO: Test 2 password done.
+2023-12-30 12:14:26,517 - INFO: Test 2 login button click done.
+2023-12-30 12:38:09,137 - INFO: Test Case 1 Execution start.
+2023-12-30 12:38:16,432 - INFO: Test Case 1 Execution start.
+2023-12-30 12:38:23,595 - INFO: login page open successful.
+2023-12-30 12:38:24,676 - INFO: user name  successful.
+2023-12-30 12:38:24,698 - INFO: login page password successful.
+2023-12-30 12:38:26,664 - INFO: login page login button click successful.
+2023-12-30 12:38:26,666 - INFO: login successful.
+2023-12-30 12:38:26,695 - INFO: Screenshot saved to:screenshots/login_test_1_done_23-12-30_12:38:26.png
+2023-12-30 12:38:28,480 - INFO: login testcase one valid execution completed.
+2023-12-30 12:38:30,526 - INFO: Test Case 2 Execution start.
+2023-12-30 12:38:38,027 - INFO: Test Case 2 Execution start.
+2023-12-30 12:38:38,643 - INFO: login test case 2 url done.
+2023-12-30 13:03:03,645 - INFO: login_testCase1_valid Execution Start....
+2023-12-30 13:03:11,148 - INFO: Firefox Launch Successful.
+2023-12-30 13:03:16,372 - INFO: Login page open Successful.
+2023-12-30 13:03:17,080 - INFO: Type Username Successful.
+2023-12-30 13:03:17,103 - INFO: Type Password Successful.
+2023-12-30 13:03:17,338 - INFO: Login Button clicked Successful.
+2023-12-30 13:03:22,344 - INFO: Test Passed. Login successful.
+2023-12-30 13:03:23,886 - INFO: login_testCase1_valid execution completed..
+2023-12-30 13:03:43,793 - INFO: login_testCase1_valid Execution Start....
+2023-12-30 13:03:50,964 - INFO: Firefox Launch Successful.
+2023-12-30 13:03:57,671 - INFO: Login page open Successful.
+2023-12-30 13:03:58,283 - INFO: Type Username Successful.
+2023-12-30 13:03:58,311 - INFO: Type Password Successful.
+2023-12-30 13:03:59,798 - INFO: Login Button clicked Successful.
+2023-12-30 13:04:04,803 - INFO: Test Passed. Login successful.
+2023-12-30 13:04:06,047 - INFO: login_testCase1_valid execution completed..
+2024-01-12 10:07:58,015 - INFO: login_testCase1_valid Execution Start....
+2024-01-12 10:09:16,905 - INFO: login_testCase1_valid Execution Start....
+2024-01-12 10:09:36,325 - INFO: Firefox Launch Successful.
+2024-01-12 10:09:44,909 - INFO: Login page open Successful.
+2024-01-12 10:09:46,878 - INFO: Type Username Successful.
+2024-01-12 10:09:48,326 - INFO: Type Password Successful.
+2024-01-12 10:09:49,596 - INFO: Login Button clicked Successful.
+2024-01-12 10:09:54,603 - INFO: Test Passed. Login successful.
+2024-01-12 10:09:58,723 - INFO: login_testCase1_valid execution completed..
+2024-01-12 10:10:58,006 - INFO: login_testCase1_valid Execution Start....
+2024-01-12 10:11:10,538 - INFO: Firefox Launch Successful.
+2024-01-12 10:11:22,273 - INFO: Login page open Successful.
+2024-01-12 10:11:24,005 - INFO: Type Username Successful.
+2024-01-12 10:11:24,165 - INFO: Type Password Successful.
+2024-01-12 10:11:25,616 - INFO: Login Button clicked Successful.
+2024-01-12 10:11:30,620 - INFO: Test Passed. Login successful.
+2024-01-12 10:11:35,788 - INFO: login_testCase1_valid execution completed..
